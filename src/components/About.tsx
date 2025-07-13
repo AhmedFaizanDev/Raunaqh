@@ -21,10 +21,6 @@ const About = () => {
               </p>
               
               <p>
-              Our atelier collaborates closely with master artisans, custodians of centuries-old craftsmanship, preserving the fine traditions of zardozi, karigari, and hand embroidery, while pushing the boundaries of modern design.
-              </p>
-              
-              <p>
               Rooted in the soul of Hyderabad, a city of Nizami grandeur, lyrical culture, and rich artisanal history, Raunaqh creates garments that transcend seasons and fleeting trends. From the finest fabrics to the most intricate detailing, every element is meticulously curated, honoring the past while dressing the present.
               </p>
 

@@ -88,7 +88,7 @@ const Footer = () => {
         <div className="border-t border-background/20 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-background/50 text-sm mb-4 md:mb-0">
-              © 2024 RAUNAQH. All rights reserved.
+              © 2025 RAUNAQH. All rights reserved.
             </p>
             <div className="flex space-x-8 text-sm">
               <a href="#" className="text-background/50 hover:text-background transition-colors duration-300">
